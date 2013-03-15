@@ -1,10 +1,10 @@
-# Front-end Dev Supplemental Resource Pages
+# Server-side Dev Supplemental Resource Pages
 
-Pages that we created to aid in the [Front-end Dev Skill](https://diy.org/skills/front-enddev).
+Pages that we created to aid in the [Server-sde Dev Skill](https://diy.org/skills/server-sidedev).
 
 ## Simply Speaking
 
-The raw markdown files for each challenge can be found in the [contents folder](https://github.com/diy/opensourcerer.diy.org/tree/master/content).
+The raw markdown files for each challenge can be found in the [contents folder](https://github.com/diy/server-side-dev.diy.org/tree/master/content).
 
 ## Technically Speaking
 
