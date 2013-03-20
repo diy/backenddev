@@ -1,13 +1,32 @@
-# Server-side Dev
+# Backend Dev
+Working notes for the scope and content of challenges and resources in Backend Dev Skill.
 
-### Challenges
+## Challenges
 
-#### Use an open API
+### Set up Local Development Environment 
+1. Backend and Node.js 101
+2. Install Node.js
+3. 
+
+### Run a Node.js Server
+
+
+### Write a Simple Server (Hello World)
+1. Felix's Node.js Beginner's Guide
+2. 
+
+### Database Communication
+
+### Check your Speed (Local Performance Profiling)
+1. Apache AB
+
+### Query an API
 * [Open APIs](http://www.programmableweb.com/apis/directory)
 
-#### Batch edit photos
-#### Download YouTube Photos (eh?)
-#### Scrape a Website
+### Deploy 
+1. Distributed Load Test (blitz.io)
+2. Nodejitsu/Heroku
+
 
 #### General Resources
 
