@@ -33,6 +33,7 @@ Working notes for the scope and content of challenges and resources in Backend D
 * [Felix's Guide to Node.js](http://nodeguide.com/beginner.html)
 * [Stack Overflow List of Resources](http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js)
 * [Pedro's Node Tuts](http://nodetuts.com/)
+* [mozilla build a server that won't melt](https://hacks.mozilla.org/2013/01/building-a-node-js-server-that-wont-melt-a-node-js-holiday-season-part-5/)
 
 #### Hurdles
 

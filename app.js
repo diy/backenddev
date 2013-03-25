@@ -13,7 +13,7 @@ var http    = require('http'),
     router  = require('router'),
     argv    = require('optimist')
                 .default('h', 'localhost')
-                .default('p', 3000)
+                .default('p', 3300)
                 .argv;
 
 /**
