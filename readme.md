@@ -1,4 +1,4 @@
-# Server-side Dev Supplemental Resource Pages
+# Backend Dev Supplemental Resource Pages
 
 Pages that we created to aid in the [Backend Dev Skill](https://diy.org/skills/backenddev).
 
