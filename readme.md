@@ -1,6 +1,6 @@
 # Server-side Dev Supplemental Resource Pages
 
-Pages that we created to aid in the [Server-sde Dev Skill](https://diy.org/skills/server-sidedev).
+Pages that we created to aid in the [Backend Dev Skill](https://diy.org/skills/backenddev).
 
 ## Simply Speaking
 
