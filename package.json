@@ -1,8 +1,8 @@
 {
   "author": "DIY Co. <https://diy.org>",
-  "name": "turtle",
-  "description": "Code with friends.",
-  "homepage": "https://github.com/thisandagain/turtle",
+  "name": "backenddev",
+  "description": "Backend Dev Resources.",
+  "homepage": "https://github.com/diy/backenddev",
   "version": "0.0.1",
   "dependencies": {
     "filed": "~0.0.7",
@@ -17,6 +17,6 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "engines": {
-    "node": "0.6.20"
+    "node": "0.10.29"
   }
 }
